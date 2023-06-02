@@ -1,0 +1,44 @@
+/* com  (completed) */
+.bg-menu-theme
+  .menu-sub
+  > .menu-item.com
+  > .menu-link:not(.menu-toggle):before {
+  background-color: #03c3ec !important;
+  border: 3px solid #e7e7ff !important;
+}
+
+.bg-menu-theme
+  .menu-sub
+  > .menu-item.com
+  > .menu-link:not(.menu-toggle):before {
+  left: 1.1875rem;
+  width: 0.875rem;
+  height: 0.875rem;
+}
+
+/* dang - danger (rejected) */
+.bg-menu-theme
+  .menu-sub
+  > .menu-item.dang
+  > .menu-link:not(.menu-toggle):before {
+  background-color: #ff3e1d !important;
+  border: 3px solid #e7e7ff !important;
+}
+
+.bg-menu-theme
+  .menu-sub
+  > .menu-item.dang
+  > .menu-link:not(.menu-toggle):before {
+  left: 1.1875rem;
+  width: 0.875rem;
+  height: 0.875rem;
+}
+.profile-pic {
+  height: 100px;
+  width: 100px;
+}
+
+.signature {
+  height: 50px;
+  width: 160px;
+}
